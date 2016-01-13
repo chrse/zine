@@ -21,6 +21,11 @@ div a {
   font-weight: 600;
   margin: auto 0;
   color: #465462;
+  border-color: #465462;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 4px;
+  padding: 4px 20px;
   text-decoration: none;
 }
 
