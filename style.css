@@ -12,7 +12,7 @@ body {
 div {
   position: fixed;
   width: 100%;
-  bottom: 12%;
+  bottom: 20%;
   text-align: center;
 }
 
@@ -20,16 +20,10 @@ div a {
   font-family: 'Open Sans', sans-serif;
   font-weight: 600;
   margin: auto 0;
-  color: #3E5A7C;
-  border-color: #3E5A7C;
-  border-width: 2px;
-  border-radius: 3px;
-  border-style: solid;
-  padding: 4px 20px;
+  color: #465462;
   text-decoration: none;
 }
 
 div a:hover {
   color: #25364A;
-  border-color: #25364A;
 }
