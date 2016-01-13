@@ -1,0 +1,35 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #C7A379;
+  background: url(cover-with-flowers.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+div {
+  position: fixed;
+  width: 100%;
+  bottom: 12%;
+  text-align: center;
+}
+
+div a {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  margin: auto 0;
+  color: #3E5A7C;
+  border-color: #3E5A7C;
+  border-width: 2px;
+  border-radius: 3px;
+  border-style: solid;
+  padding: 4px 20px;
+  text-decoration: none;
+}
+
+div a:hover {
+  color: #25364A;
+  border-color: #25364A;
+}
